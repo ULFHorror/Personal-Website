@@ -1,0 +1,10 @@
+body{
+    background-color: deeppink;
+    color: greenyellow;
+}
+
+img{
+    border: 3px solid greenyellow;
+    border-radius: 15px;
+    
+}
